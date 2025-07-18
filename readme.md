@@ -1,5 +1,6 @@
 # Donut - ASCII Donut Renderer
 
+
 This project demonstrates a fascinating and compact way to render a 3D rotating torus (donut) in ASCII characters using C. The program implements 3D projection mathematics, leveraging framebuffer and z-buffering to create a mesmerizing effect in the terminal.
 
 
